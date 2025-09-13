@@ -1,2 +1,0 @@
-# SirenVR
-IMAGES - VIP - ETC
