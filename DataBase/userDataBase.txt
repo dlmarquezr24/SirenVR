@@ -6,7 +6,7 @@ date: 01/01/2025 00:00 +00:00
 friends:
 
 @UserData
-name: Tonny Savannah0
+name: Tonny Savannah
 tier: 5
 days: 0
 date: 01/01/2025 00:00 +00:00
