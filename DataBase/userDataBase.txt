@@ -13,7 +13,7 @@ date: 01/01/2025 00:00 +00:00
 friends:
 
 @UserData
-name: Яegi
+name: Яegio
 tier: 5
 days: 0
 date: 01/01/2025 00:00 +00:00
