@@ -41,14 +41,14 @@ date: 01/01/2025 00:00 +00:00
 friends:
 
 @UserData
-name:  DevinTheCrow
+name: DevinTheCrow
 tier: 5
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends: 
 
 @UserData
-name: .Opi
+name: ․Opi
 tier: 4
 days: 0
 date: 01/01/2025 00:00 +00:00
