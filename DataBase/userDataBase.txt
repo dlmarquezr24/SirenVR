@@ -83,7 +83,7 @@ date: 01/01/2025 00:00 +00:00
 friends: 
 
 @UserData
-name: x_Artemis_x 
+name: Hrogar-Ironhand
 tier: 5
 days: 0
 date: 01/01/2025 00:00 +00:00
@@ -175,6 +175,20 @@ friends:
 
 @UserData
 name: Jalapeñis
+tier: 5
+days: 0
+date: 01/01/2025 00:00 +00:00
+friends: 
+
+@UserData
+name: squishytaur
+tier: 5
+days: 0
+date: 01/01/2025 00:00 +00:00
+friends: 
+
+@UserData
+name: ʙᴀsᴛᴇᴛ
 tier: 5
 days: 0
 date: 01/01/2025 00:00 +00:00
