@@ -203,7 +203,7 @@ friends:
 
 @UserData
 name: xxx_GLITCH_xxx
-tier: 6
+tier: 4
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends:
