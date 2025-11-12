@@ -7,224 +7,224 @@ friends:
 
 @UserData
 name: Tonny Savannah
-tier: Admin
+tier: 5
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends:
 
 @UserData
 name: Яegio
-tier: Admin
+tier: 5
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends:
 
 @UserData
 name: Asmodeuu
-tier: Admin
+tier: 5
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends:
 
 @UserData
 name: BlackDogVRC
-tier: Admin
+tier: 5
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends: Ajña, Miss_Mayfrost, kyber108,
 
 @UserData
 name: SneezeQueen
-tier: Admin
+tier: 5
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends:
 
 @UserData
 name: DevinTheCrow
-tier: Admin
+tier: 5
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends: 
 
 @UserData
 name: ․Opi
-tier: Staff
+tier: 4
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends:
 
 @UserData
 name: -Drystone-
-tier: Admin
+tier: 5
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends: 
 
 @UserData
 name: Lullygagen
-tier: Admin
+tier: 5
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends: 
 
 @UserData
 name: OOEYGOOEYPEPSI
-tier: Admin
+tier: 5
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends: 
 
 @UserData
 name: bonbonadv
-tier: Admin
+tier: 5
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends: 
 
 @UserData
 name: Hrogar-Ironhand
-tier: Admin
+tier: 5
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends: 
 
 @UserData
 name: SnorlaxSappy
-tier: Admin
+tier: 5
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends: 
 
 @UserData
 name: BatWan
-tier: Admin
+tier: 5
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends: 
 
 @UserData
 name: Nana_Wunsek
-tier: Admin
+tier: 5
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends: 
 
 @UserData
 name: Majestysunny
-tier: Admin
+tier: 5
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends: 
 
 @UserData
 name: TheAtlas1212
-tier: Staff
+tier: 4
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends: 
 
 @UserData
 name: Animateen8
-tier: Staff
+tier: 4
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends: 
 
 @UserData
 name: Stabn
-tier: Staff
+tier: 4
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends: 
 
 @UserData
 name: Hung The Hungry
-tier: Admin
+tier: 5
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends: 
 
 @UserData
 name: Melodiva
-tier: Admin
+tier: 5
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends: 
 
 @UserData
 name: Kyber108
-tier: Admin
+tier: 5
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends: 
 
 @UserData
 name: Latinanessaja
-tier: Admin
+tier: 5
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends: 
 
 @UserData
 name: carmella_hatesu
-tier: Admin
+tier: 5
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends: 
 
 @UserData
 name: Jalapeñis
-tier: Admin
+tier: 5
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends: 
 
 @UserData
 name: squishytaur
-tier: Admin
+tier: 5
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends: 
 
 @UserData
 name: ʙᴀsᴛᴇᴛ
-tier: Admin
+tier: 5
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends:
 
 @UserData
 name: AsímiVulpes
-tier: Admin
+tier: 5
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends:
 
 @UserData
 name: xxx_GLITCH_xxx
-tier: Staff
+tier: 4
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends:
 
 @UserData
 name: MҽɾƈυɾყIɳGҽɱιɳι
-tier: Admin
+tier: 5
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends:
 
 @UserData
 name: Dimmitri
-tier: Admin
+tier: 5
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends:
 
 @UserData
 name: ЩIᄂDᄃΛЯD
-tier: Admin
+tier: 5
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends:
