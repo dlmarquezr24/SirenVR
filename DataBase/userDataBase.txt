@@ -209,20 +209,6 @@ date: 01/01/2025 00:00 +00:00
 friends:
 
 @UserData
-name: MҽɾƈυɾყIɳGҽɱιɳι
-tier: 5
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends:
-
-@UserData
-name: Dimmitri
-tier: 5
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends:
-
-@UserData
 name: ЩIᄂDᄃΛЯD
 tier: 5
 days: 0
