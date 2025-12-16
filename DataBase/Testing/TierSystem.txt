@@ -1,0 +1,48 @@
+@UserData
+name: Tonny Savannah
+tier: OWNER
+days: 0
+date: 01/01/2025 00:00 +00:00
+friends:
+
+@UserData
+name: BlackDogVRC
+tier: Admin
+days: 0
+date: 01/01/2025 00:00 +00:00
+friends: Ajña, Miss_Mayfrost, kyber108,
+
+@UserData
+name: SneezeQueen
+tier: Admin
+days: 0
+date: 01/01/2025 00:00 +00:00
+friends:
+
+@UserData
+name: UltraLord
+tier: Bartender
+days: 0
+date: 01/01/2025 00:00 +00:00
+friends:
+
+@UserData
+name: Megass_XLM
+tier: DJ
+days: 0
+date: 01/01/2025 00:00 +00:00
+friends:
+
+@UserData
+name: TrapGod99
+tier: VIP
+days: 0
+date: 01/01/2025 00:00 +00:00
+friends: CammelToes, HyperSmurf, SurferHero
+
+@UserData
+name: AdminTest
+tier: Staff
+days: 0
+date: 01/01/2025 00:00 +00:00
+friends:
