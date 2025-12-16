@@ -291,3 +291,10 @@ tier: Admin
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends:
+
+@UserData
+name: Evilmoonlight
+tier: Bartender
+days: 0
+date: 01/01/2025 00:00 +00:00
+friends:
