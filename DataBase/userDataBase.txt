@@ -49,7 +49,7 @@ friends:
 
 @UserData
 name: ․Opi
-tier: Staff
+tier: Admin
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends:
