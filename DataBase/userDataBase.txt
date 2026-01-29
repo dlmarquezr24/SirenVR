@@ -27,7 +27,7 @@ date: 01/01/2025 00:00 +00:00
 friends:
 
 @UserData
-name: Asmodeuu
+name: Asmode
 tier: Admin
 days: 0
 date: 01/01/2025 00:00 +00:00
@@ -342,7 +342,7 @@ date: 01/01/2025 00:00 +00:00
 friends:
 
 @UserData
-name: Coach_B 
+name: 
 tier: Admin
 days: 0
 date: 01/01/2025 00:00 +00:00
