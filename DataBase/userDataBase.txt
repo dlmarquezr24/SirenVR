@@ -1,5 +1,6 @@
 @UserData
 name: FineLine69
+discordID: 1434534
 tier: Owner
 days: 0
 date: 01/01/2025 00:00 +00:00
@@ -7,6 +8,7 @@ friends: Coach_B
 
 @UserData
 name: Tonny Savannah
+discordID: 634334
 tier: Admin
 days: 0
 date: 01/01/2025 00:00 +00:00
