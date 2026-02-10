@@ -1,7 +1,7 @@
 @UserData
 name: FineLine69
 discordID: 1434534
-tier: Owner
+tier: OWNER
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends: Coach_B 
