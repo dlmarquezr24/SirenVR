@@ -36,109 +36,11 @@ date: 01/01/2025 00:00 +00:00
 friends:
 
 @UserData
-name: BlackDogVRC
-tier: Admin
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends: Ajña, Miss_Mayfrost, kyber108,
-
-@UserData
-name: SneezeQueen
-tier: Admin
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends:
-
-@UserData
-name: DevinTheCrow
-tier: Admin
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends: 
-
-@UserData
 name: ․Opi
 tier: Admin
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends:
-
-@UserData
-name: -Drystone-
-tier: Admin
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends: 
-
-@UserData
-name: Lullygagen
-tier: Admin
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends: 
-
-@UserData
-name: OOEYGOOEYPEPSI
-tier: Admin
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends: 
-
-@UserData
-name: bonbonadv
-tier: Admin
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends: 
-
-@UserData
-name: Hrogar-Ironhand
-tier: Admin
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends: 
-
-@UserData
-name: SnorlaxSappy
-tier: Admin
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends: 
-
-@UserData
-name: BatWan
-tier: Admin
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends: 
-
-@UserData
-name: Nana_Wunsek
-tier: Admin
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends: 
-
-@UserData
-name: Majestysunny
-tier: Admin
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends: 
-
-@UserData
-name: TheAtlas1212
-tier: Staff
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends: 
-
-@UserData
-name: Animateen8
-tier: Staff
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends: 
 
 @UserData
 name: Stabn
@@ -155,70 +57,7 @@ date: 01/01/2025 00:00 +00:00
 friends: 
 
 @UserData
-name: Melodiva
-tier: Admin
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends: 
-
-@UserData
-name: Kyber108
-tier: Admin
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends: 
-
-@UserData
-name: Latinanessaja
-tier: Admin
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends: 
-
-@UserData
-name: carmella_hatesu
-tier: Admin
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends: 
-
-@UserData
-name: Jalapeñis
-tier: Admin
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends: 
-
-@UserData
-name: squishytaur
-tier: Admin
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends: 
-
-@UserData
-name: ʙᴀsᴛᴇᴛ
-tier: Admin
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends:
-
-@UserData
-name: AsímiVulpes
-tier: Admin
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends:
-
-@UserData
 name: xxx_GLITCH_xxx
-tier: Admin
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends:
-
-@UserData
-name: ЩIᄂDᄃΛЯD
 tier: Admin
 days: 0
 date: 01/01/2025 00:00 +00:00
@@ -232,78 +71,8 @@ date: 01/01/2025 00:00 +00:00
 friends:
 
 @UserData
-name: Abyssalv0id
-tier: Admin
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends:
-
-@UserData
-name: Gabe_Hargreaves
-tier: Admin
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends:
-
-@UserData
-name: Cockthulhu
-tier: Admin
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends:
-
-@UserData
-name: Gtx Omega
-tier: Staff
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends:
-
-@UserData
-name: Dimmitri
-tier: Admin
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends:
-
-@UserData
-name: DanielleVR
-tier: Admin 
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends:
-
-@UserData
-name: DrExoticEdge
-tier: Admin
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends:
-
-@UserData
-name: Hallowqueen24
-tier: Admin
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends:
-
-@UserData
-name: 4th-Cosine
-tier: Admin
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends:
-
-@UserData
 name: 〄༒ƬΣᄃΉПӨKΛƬ༒〄
 tier: Admin
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends:
-
-@UserData
-name: Evilmoonlight
-tier: Bartender
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends:
@@ -316,22 +85,8 @@ date: 01/01/2025 00:00 +00:00
 friends:
 
 @UserData
-name: Gooning Stoner
-tier: Admin
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends:
-
-@UserData
 name: svenrichter2002
 tier: Dj
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends:
-
-@UserData
-name: CelticRavenZxe
-tier: Admin
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends:
@@ -344,32 +99,11 @@ date: 01/01/2025 00:00 +00:00
 friends:
 
 @UserData
-name: HEXX-Cyn
-tier: Admin
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends: 
-
-@UserData
-name: MetalzDragon
-tier: Admin
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends: 
-
-@UserData
 name: Innco
 tier: Dj
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends: 
-
-@UserData
-name: Atticus Reid
-tier: Admin
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends:
 
 @UserData
 name: CLØUT
