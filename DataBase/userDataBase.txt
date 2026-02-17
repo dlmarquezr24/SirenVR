@@ -9,35 +9,35 @@ friends: Coach_B
 @UserData
 name: Tonny Savannah
 discordID: 634334
-tier: Admin
+tier: CEO
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends:
 
 @UserData
 name: MrKokacho ffac
-tier: Admin
+tier: CEO
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends:
 
 @UserData
 name: Яegio
-tier: Admin
+tier: CEO
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends:
 
 @UserData
 name: DJ lil pawz
-tier: Admin
+tier: CEO
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends:
 
 @UserData
 name: ․Opi
-tier: Admin
+tier: CEO
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends:
@@ -51,28 +51,28 @@ friends:
 
 @UserData
 name: Hung The Hungry
-tier: Admin
+tier: CEO
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends: 
 
 @UserData
 name: xxx_GLITCH_xxx
-tier: Admin
+tier: CEO
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends:
 
 @UserData
 name: Acedabase
-tier: Admin
+tier: CEO
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends:
 
 @UserData
 name: 〄༒ƬΣᄃΉПӨKΛƬ༒〄
-tier: Admin
+tier: CEO
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends:
@@ -93,7 +93,7 @@ friends:
  
 @UserData
 name: xxquinnybooxx
-tier: Admin
+tier: CEO
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends:
