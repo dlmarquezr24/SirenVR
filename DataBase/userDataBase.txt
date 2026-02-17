@@ -23,7 +23,7 @@ friends:
 
 @UserData
 name: Яegio
-tier: CEO
+tier: Owner
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends:
