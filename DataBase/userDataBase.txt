@@ -7,7 +7,7 @@ date: 01/01/2025 00:00 +00:00
 friends: Coach_B 
 
 @UserData
-name: Tonny Savannah
+name: Tonny Savann
 discordID: 634334
 tier: CEO
 days: 0
@@ -15,7 +15,7 @@ date: 01/01/2025 00:00 +00:00
 friends:
 
 @UserData
-name: MrKokacho ffac
+name: MrKokacho ff
 tier: CEO
 days: 0
 date: 01/01/2025 00:00 +00:00
