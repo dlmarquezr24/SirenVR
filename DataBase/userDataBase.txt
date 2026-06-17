@@ -378,7 +378,21 @@ friends:
 
 @UserData
 name: MYC NETWORK f39
-tier: CEO
+tier: Owner
+days: 0
+date: 01/01/2025 00:00 +00:00
+friends:
+
+@UserData
+name: Saturn69
+tier: Owner
+days: 0
+date: 01/01/2025 00:00 +00:00
+friends:
+
+@UserData
+name: 2FineLines
+tier: Owner
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends:
