@@ -403,3 +403,24 @@ tier: CEO
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends:
+
+@UserData
+name: lumine_da_potao
+tier: Dj
+days: 0
+date: 01/01/2025 00:00 +00:00
+friends:
+
+@UserData
+name: DJ Slime Girls
+tier: Dj
+days: 0
+date: 01/01/2025 00:00 +00:00
+friends:
+
+@UserData
+name: Metawoman2024
+tier: CEO
+days: 0
+date: 01/01/2025 00:00 +00:00
+friends:
