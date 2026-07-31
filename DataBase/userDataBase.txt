@@ -522,3 +522,59 @@ tier: CEO
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends:
+
+@UserData
+name: CyanoDragon
+tier: CEO
+days: 0
+date: 01/01/2025 00:00 +00:00
+friends:
+
+@UserData
+name: AmbientGryph
+tier: Dj
+days: 0
+date: 01/01/2025 00:00 +00:00
+friends:
+
+@UserData
+name: _pegasys
+tier: Dj
+days: 0
+date: 01/01/2025 00:00 +00:00
+friends:
+
+@UserData
+name: Thousand_
+tier: Dj
+days: 0
+date: 01/01/2025 00:00 +00:00
+friends:
+
+@UserData
+name: Avia Cute Owl
+tier: Dj
+days: 0
+date: 01/01/2025 00:00 +00:00
+friends:
+
+@UserData
+name: PIKYES
+tier: Dj
+days: 0
+date: 01/01/2025 00:00 +00:00
+friends:
+
+@UserData
+name: ＬＩＰＴＡＴＩＯＮ
+tier: Dj
+days: 0
+date: 01/01/2025 00:00 +00:00
+friends:
+
+@UserData
+name: Melti_
+tier: Dj
+days: 0
+date: 01/01/2025 00:00 +00:00
+friends:
